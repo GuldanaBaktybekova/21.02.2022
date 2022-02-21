@@ -43,7 +43,16 @@ const articles = [
   }
 ]
 
-let main = document.querySelector('main');
-main.forEach(function() {
-  let article = document.createElement('article')
+const main = document.querySelector('main');
+articles.forEach(article => {
+  const article = document.createElement('article');
+  const h1 = document.createElement('h1');
+  const img = document.createElement('img');
+  const p = document.createElement('p');
+
+  articleElement.append(h1);
+  articleElement.append()
+  articleElement.append()
+  main.append
+ 
 })
