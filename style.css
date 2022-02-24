@@ -2,17 +2,25 @@
   display: none;
 }
 
-main {
-  display: flex;
-  flex: column;
-}
 article img  {
   max-width: 30%;
+  float: left;
 
 }
+div {
+  margin: 10px;
+}
+
 .more {
   display: block;
 }
 .none {
   display: none;
 }
+h1 {
+  cursor: pointer;
+  background-color: rgb(236, 164, 236);
+  padding: 10px;
+
+}
+
