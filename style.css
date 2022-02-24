@@ -10,3 +10,6 @@ article img  {
   max-width: 30%;
 
 }
+#more {
+  display: none;
+}
