@@ -3,8 +3,10 @@
 }
 
 article img  {
-  max-width: 30%;
+  max-width: 15%;
+
   float: left;
+  padding: 10px;
 
 }
 div {
