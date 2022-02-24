@@ -10,6 +10,9 @@ article img  {
   max-width: 30%;
 
 }
-#more {
+.more {
+  display: block;
+}
+.none {
   display: none;
 }
