@@ -13,13 +13,7 @@ div {
   margin: 10px;
 }
 
-.more {
-  display: block;
-}
-.none {
-  display: none;
-}
-h1 {
+summary {
   cursor: pointer;
   background-color: rgb(236, 164, 236);
   padding: 10px;
